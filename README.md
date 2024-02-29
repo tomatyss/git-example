@@ -1,4 +1,4 @@
 # Git example repository
 
 
-- second commit
+Add some feature
